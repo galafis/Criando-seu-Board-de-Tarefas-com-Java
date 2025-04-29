@@ -33,6 +33,6 @@ BoardTarefasJava/
 ```
 
 ## 🎓 Baseado em
-Desafio da [Digital Innovation One (DIO)](https://github.com/digitalinnovationone/board), feito por mim, apaixonado por T.I e com melhorias e organização em camadas.
+Desafio da [Digital Innovation One (DIO)](https://github.com/digitalinnovationone/board), com melhorias e organização em camadas.
 
 Pronto para ser evoluído com persistência em banco, interface gráfica ou API REST! 🚀
