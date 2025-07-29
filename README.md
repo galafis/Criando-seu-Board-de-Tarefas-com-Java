@@ -36,3 +36,23 @@ BoardTarefasJava/
 Desafio da [Digital Innovation One (DIO)](https://github.com/digitalinnovationone/board), com melhorias e organização em camadas.
 
 Pronto para ser evoluído com persistência em banco, interface gráfica ou API REST! 🚀
+
+
+## 📋 Descrição
+
+Descreva aqui o conteúdo desta seção.
+
+
+## 📦 Instalação
+
+Descreva aqui o conteúdo desta seção.
+
+
+## 💻 Uso
+
+Descreva aqui o conteúdo desta seção.
+
+
+## 📄 Licença
+
+Descreva aqui o conteúdo desta seção.
