@@ -3,6 +3,7 @@
 [![Java](https://img.shields.io/badge/Java-17%2B-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
 [![CLI](https://img.shields.io/badge/Interface-Terminal-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white)](https://github.com/galafis/Criando-seu-Board-de-Tarefas-com-Java)
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![Docker](https://img.shields.io/badge/Docker-Ready-2496ED.svg?logo=docker)](Dockerfile)
 
 ---
 
